@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tryingDiffrentClasses.iml" filepath="$PROJECT_DIR$/.idea/modules/tryingDiffrentClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tryingDiffrentClasses/.idea/modules/tryingDiffrentClasses_main.iml" filepath="$PROJECT_DIR$/../tryingDiffrentClasses/.idea/modules/tryingDiffrentClasses_main.iml" group="tryingDiffrentClasses" />
+      <module fileurl="file://$PROJECT_DIR$/../tryingDiffrentClasses/.idea/modules/tryingDiffrentClasses_test.iml" filepath="$PROJECT_DIR$/../tryingDiffrentClasses/.idea/modules/tryingDiffrentClasses_test.iml" group="tryingDiffrentClasses" />
+    </modules>
+  </component>
+</project>
